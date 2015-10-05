@@ -1,0 +1,4 @@
+<h2>Detalle Del meser@ <?php echo $mesero['Mesero']['nombre']?></h2>
+<p><strong>DNI:</strong><?php echo $mesero['Mesero']['dni'] ?></p>
+<p><strong>Telefono:</strong><?php echo $mesero['Mesero']['telefono'] ?></p>
+<p><strong>Creado:</strong><?php echo $mesero['Mesero']['created'] ?></p>
